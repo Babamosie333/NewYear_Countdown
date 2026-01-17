@@ -20,7 +20,7 @@ Geist Fonts (Vercel)       Turbopack Optimized
 ```
 
 ## 📱 Live Demo
-**[Deployed on Vercel]** (add your link here)
+**[Deployed on Vercel]** https://new-year-countdown-tau-green.vercel.app/
 
 ## 🚀 Quick Start
 
